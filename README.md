@@ -36,4 +36,14 @@ The project also visualizes heart rate changes over time using graphs.
 ---
 
 ## 📂 Project Structure
+smart-heart-rate-analyzer/
+│
+├── heart_rate_analyzer.py
+├── requirements.txt
+├── data/
+│ └── sample_heart_rate.csv
+├── README.md
+├── LICENSE
+└── .gitignore
+
 
